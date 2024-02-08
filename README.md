@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @keerthanadevisaminathan
+- 👋 Hi, I’m keerthana Devi Saminathan
 - 👀 I’m interested in Machine Learning and Web Development
 - 🌱 I’m currently learning Deep Learning
 - 📫Reach me through https://www.linkedin.com/in/keerthana-devi-saminathan-662003225/
